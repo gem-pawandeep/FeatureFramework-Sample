@@ -1,0 +1,16 @@
+{
+  "environment": "prod",
+  "project_name": "Feature_Framework_Sample",
+  "report_name": "Report",
+  "glue_code": "com.gemini.generic.feature.utils",
+  "beta": {
+    "jewel_user": "pdeep",
+    "jewel_bridge_token": "7f946e64-448f-45f1-882f-ccf885612a3a1686833425782",
+    "enter_point": "https://apis-beta.gemecosystem.com/enter-point"
+  },
+  "prod": {
+    "jewel_user": "pdeep",
+    "jewel_bridge_token": "8b5fc300-0808-43d9-85a9-eeb78fb7f8f81684845308950",
+    "enter_point": "https://apis.gemecosystem.com/enter-point"
+  }
+}
